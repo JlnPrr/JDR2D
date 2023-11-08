@@ -16,9 +16,10 @@ Barre espace pour dialoguer
 
 <!-- {:style="text-align:center;"} -->
 
-![Capture d'écran 2023-11-07 172437](https://github.com/JlnPrr/JDR2D/assets/83329578/ab19d994-ac9e-4443-aa58-20013c267971)
-![Capture d'écran 2023-11-07 172747](https://github.com/JlnPrr/JDR2D/assets/83329578/62c9bc3e-4531-4089-830d-5207a8fbe01d)
-![Capture d'écran 2023-11-07 172526](https://github.com/JlnPrr/JDR2D/assets/83329578/87ac28b5-87ea-4154-a926-a0b873a7f135)
-![Capture d'écran 2023-11-07 172846](https://github.com/JlnPrr/JDR2D/assets/83329578/8e778691-2cd1-4ae5-948f-8a74b0603ed4)
+![Capture d'écran 2023-11-07 172437](https://github.com/JlnPrr/JDR2D/assets/83329578/d8289b34-29f4-4467-9f19-16bbdd9636e2)
+![Capture d'écran 2023-11-07 172747](https://github.com/JlnPrr/JDR2D/assets/83329578/66888186-0dd1-47b1-8fd4-9b95046f3dbc)
+![Capture d'écran 2023-11-07 172526](https://github.com/JlnPrr/JDR2D/assets/83329578/b5bc6be3-549e-4b1f-a4b1-002c116aae41)
+![Capture d'écran 2023-11-07 172846](https://github.com/JlnPrr/JDR2D/assets/83329578/2ea7c32f-6f73-4f11-babf-0fac4ea1d97d)
+
 
 <br/>
